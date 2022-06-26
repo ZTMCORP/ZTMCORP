@@ -18,7 +18,7 @@ Petit groupe vous mettant à disposition quelques programmes facilitant certaine
 
 # Langages ?
 
-Ce github portera principalement sur du Python et du JS principalement, mais vous n'êtes pas à l'abri de quelques surprises ^^
+Ce github portera principalement sur du Python et du JS, mais vous n'êtes pas à l'abri de quelques surprises ^^
 
 # Authors
 
